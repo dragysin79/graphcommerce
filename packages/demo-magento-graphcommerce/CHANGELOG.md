@@ -1,5 +1,15 @@
 # @graphcommerce/demo-magento-graphcommerce
 
+## 6.0.0
+
+### Minor Changes
+
+- [#1795](https://github.com/graphcommerce-org/graphcommerce/pull/1795) [`236d698b2`](https://github.com/graphcommerce-org/graphcommerce/commit/236d698b2aac55598fc45a6a58574a538f23e160) - Navigation link fix, homepage and category style fixes ([@ErwinOtten](https://github.com/ErwinOtten))
+
+### Patch Changes
+
+- [#1821](https://github.com/graphcommerce-org/graphcommerce/pull/1821) [`1abc50a21`](https://github.com/graphcommerce-org/graphcommerce/commit/1abc50a21103270fad04e4a9ea892ee1e75233e9) - Fix regression bugs and upgrade packages to latest versions ([@paales](https://github.com/paales))
+
 ## 6.0.0-canary.32
 
 ## 6.0.0-canary.31
